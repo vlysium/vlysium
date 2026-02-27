@@ -30,6 +30,12 @@
 [<img src="assets/mongodb.svg" height="36" width="40">](https://www.mongodb.com/)
 [<img src="assets/postgresql.svg" height="36" width="40">](https://www.postgresql.org/)
 [<img src="assets/arangodb.svg" height="36" width="40">](https://arango.ai/)
+[<img src="assets/appwrite.svg" height="36" width="40">](https://appwrite.io/)
+
+### 📁 CMS
+[<img src="assets/wordpress.svg" height="36" width="40">](https://wordpress.org/)
+[<img src="assets/datocms.svg" height="36" width="40">](https://www.datocms.com/)
+[<img src="assets/payloadcms.svg" height="36" width="40">](https://payloadcms.com/)
 
 ### 🎨 Design & Prototype
 [<img src="assets/figma.svg" height="36" width="40">](https://www.figma.com/)
