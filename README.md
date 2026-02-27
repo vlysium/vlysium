@@ -53,3 +53,7 @@
 ## Find me on
 [<img src="assets/linkedin.svg" height="36" width="40">](https://www.linkedin.com/in/vlysium/ "LinkedIn")
 [<img src="assets/github.svg" height="36" width="40">](https://github.com/vlysium "GitHub")
+
+## Stats
+![ ](https://raw.githubusercontent.com/vlysium/github-stats-transparent/refs/heads/output/generated/overview.svg)
+![ ](https://raw.githubusercontent.com/vlysium/github-stats-transparent/refs/heads/output/generated/languages.svg)
