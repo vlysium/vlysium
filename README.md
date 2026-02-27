@@ -15,8 +15,9 @@
 [<img src="assets/javascript.svg" height="36" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
 [<img src="assets/react.svg" height="36" width="40">](https://react.dev/ "React")
 [<img src="assets/nextjs.svg" height="36" width="40">](https://nextjs.org/ "Next.js")
-[<img src="assets/tailwindcss.svg" height="36" width="40">](https://tailwindcss.com/ "Tailwind CSS")
 [<img src="assets/sass.svg" height="36" width="40">](https://sass-lang.com/ "Sass")
+[<img src="assets/tailwindcss.svg" height="36" width="40">](https://tailwindcss.com/ "Tailwind CSS")
+[<img src="assets/shadcnui.svg" height="36" width="40">](https://ui.shadcn.com/ "shadcn/ui")
 
 ### ⚙ Backend
 [<img src="assets/typescript.svg" height="36" width="40">](https://www.typescriptlang.org/ "TypeScript")
@@ -27,8 +28,9 @@
 [<img src="assets/csharp.svg" height="36" width="40">](https://learn.microsoft.com/en-us/dotnet/csharp/ "C#")
 
 ### 🗄 Databases
-[<img src="assets/mongodb.svg" height="36" width="40">](https://www.mongodb.com/ "MongoDB")
 [<img src="assets/postgresql.svg" height="36" width="40">](https://www.postgresql.org/ "PostgreSQL")
+[<img src="assets/mongodb.svg" height="36" width="40">](https://www.mongodb.com/ "MongoDB")
+[<img src="assets/supabase.svg" height="36" width="40">](https://supabase.com/ "Supabase")
 [<img src="assets/arangodb.svg" height="36" width="40">](https://arango.ai/ "ArangoDB")
 [<img src="assets/appwrite.svg" height="36" width="40">](https://appwrite.io/ "Appwrite")
 
