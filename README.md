@@ -20,6 +20,7 @@
 [<img src="assets/react.svg" height="32" width="34">](https://react.dev/ "React")
 [<img src="assets/nextjs.svg" height="32" width="34">](https://nextjs.org/ "Next.js")
 [<img src="assets/tanstack.svg" height="32" width="34">](https://tanstack.com/ "TanStack")
+[<img src="assets/razorpages.svg" height="32" width="34">](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/ "Razor Pages")
 
 ### ⚙ Backend
 [<img src="assets/nodejs.svg" height="32" width="34">](https://nodejs.org/ "Node.js")
@@ -40,16 +41,23 @@
 [<img src="assets/datocms.svg" height="32" width="34">](https://www.datocms.com/ "DatoCMS")
 [<img src="assets/payloadcms.svg" height="32" width="34">](https://payloadcms.com/ "PayloadCMS")
 
+### ☁ Cloud
+[<img src="assets/hetzner.svg" height="32" width="34">](https://www.hetzner.com/ "Hetzner")
+[<img src="assets/cloudflare.svg" height="32" width="34">](https://www.cloudflare.com/ "Cloudflare")
+
+### 🛠️ DevOps
+[<img src="assets/docker.svg" height="32" width="34">](https://www.docker.com/ "Docker")
+[<img src="assets/nginx.svg" height="32" width="34">](https://nginx.org/ "nginx")
+
+### 🔧 Tools
+[<img src="assets/visualstudiocode.svg" height="32" width="34">](https://code.visualstudio.com/ "Visual Studio Code")
+[<img src="assets/visualstudio.svg" height="32" width="34">](https://visualstudio.microsoft.com/ "Visual Studio")
+[<img src="assets/git.svg" height="32" width="34">](https://git-scm.com/ "Git")
+
 ### 🎨 Design & Prototype
 [<img src="assets/photoshop.svg" height="32" width="34">](https://www.adobe.com/products/photoshop.html "Adobe Photoshop")
 [<img src="assets/illustrator.svg" height="32" width="34">](https://www.adobe.com/products/illustrator.html "Adobe Illustrator")
 [<img src="assets/figma.svg" height="32" width="34">](https://www.figma.com/ "Figma")
-
-### 🚀 Dev & Tools
-[<img src="assets/visualstudiocode.svg" height="32" width="34">](https://code.visualstudio.com/ "Visual Studio Code")
-[<img src="assets/visualstudio.svg" height="32" width="34">](https://visualstudio.microsoft.com/ "Visual Studio")
-[<img src="assets/git.svg" height="32" width="34">](https://git-scm.com/ "Git")
-[<img src="assets/docker.svg" height="32" width="34">](https://www.docker.com/ "Docker")
 
 ## Find me on
 [<img src="assets/linkedin.svg" height="32" width="34">](https://www.linkedin.com/in/vlysium/ "LinkedIn")
